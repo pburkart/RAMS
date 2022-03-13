@@ -459,4 +459,5 @@ $RECYCLE.BIN/
 
 # files inside Migrations folder
 API/Data/Migrations/*
+rams.db*
 
